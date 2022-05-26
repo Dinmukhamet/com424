@@ -7,8 +7,11 @@ name = "pypi"
 libpcap = "*"
 scapy = "*"
 black = "*"
+peewee = "*"
+prettytable = "*"
 
 [dev-packages]
+isort = "*"
 black = "*"
 
 [requires]
